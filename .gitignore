@@ -1,0 +1,8 @@
+datasets/
+.venv/
+learnings.aux
+learnings.log
+learnings.synctex.gz
+learnings.toc
+_minted-learnings/
+images/
